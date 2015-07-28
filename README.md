@@ -1,4 +1,4 @@
-# jsmpeg-vnc with login.
+# jsmpeg-vnc
 
 A low latency, high framerate screen sharing server and client, viewable in any modern browser.
 
